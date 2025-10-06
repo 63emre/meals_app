@@ -40,7 +40,7 @@ class MealsScreen extends StatelessWidget {
       );
     }
     return Scaffold(
-      appBar: AppBar(title: Text("data")),
+      appBar: AppBar(title: Text("Some ")),
       body: content,
     );
   }
